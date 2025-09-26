@@ -23,7 +23,7 @@ I'm a passionate **Full-Stack MERN Developer** from India, dedicated to creating
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Frontend Development
 <p>
